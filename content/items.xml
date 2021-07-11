@@ -1,0 +1,18 @@
+<items gfxroot="gfx/items/" version="1">
+  <passive cache="firedelay" description="Tears way up. You can't help it..." gfx="Collectibles_TI_TheSadOnion.png" name="The Sad Onion?" />
+  <passive cache="speed" description="I feel empty" gfx="collectibles_334_body.png" name="The Body?" maxhearts="10" />
+  <active description="Golden shower" gfx="Collectibles_056_LemonMishap.png" name="Lemon Mishap?" maxcharges="2" />
+  <active description="Taint your destiny" gfx="Collectibles_105_Dice.png" name="The D6?" maxcharges="6" />
+  <active description="* -1" gfx="Collectibles_723_SpindownDice.png" name="Spindown Dice?" maxcharges="6" />
+  <passive description="HP + Calcium up" gfx="Collectibles_069_ChocolateMilk.png" name="Chocolate Milk?" hearts="4" maxhearts="2" />
+  <passive description="Mega tears" gfx="Collectibles_169_Polyphemus.png" name="Polyphemus?" />
+  <passive description="Stinky HP up" gfx="Collectibles_026_RottenMeat.png" name="Rotten Meat?" maxhearts="2" />
+  <passive description="Last life" gfx="Collectibles_081_DeadCat.png" name="Dead Cat?" tags="dead guppy" />
+  <active description="Technically an item generator" gfx="Collectibles_097_BookOfSin.png" name="The Book of Sin?" maxcharges="6" tags="book" />
+  <passive cache="damage" description="IT BURNS!" gfx="Collectibles_TI_ChemicalPeel.png" name="Chemical Peel?" />
+  <passive cache="all" description="Poisonous mega tears" gfx="Collectibles_149_Ipecac.png" name="Ipecac?" tags="bob" />
+  <passive cache="damage speed" description="The 99 deaths of you" gfx="Collectibles_189_SMBSuperFan.png" name="SMB Super Fan?" />
+  <familiar description="Checkpoint" gfx="Collectibles_011_1Up.png" name="1up?" tags="mushroom" />
+  <passive description="Power up!" gfx="Collectibles_012_MagicMushroom.png" name="Magic Mushroom?" tags="mushroom" />
+  <active description="Taint the basics" gfx="Collectibles_166_D20.png" maxcharges="6" name="D20?" />
+</items>
